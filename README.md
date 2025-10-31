@@ -1,7 +1,7 @@
 # Hi there 👋 I’m Harshvardhan  
 ### Pupil at Codeforces | Competitive Coder | C++  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Hey+there!+I'm+Harshvardhan!;Pupil+at+Codeforces+🏆;Competitive+Coder+%7C+C%2B%2B+%26+Python+Lover;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=550&lines=Hey+there!+I'm+Harshvardhan!;Pupil+at+Codeforces+🏆;Competitive+Coder+%7C+C%2B%2B+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
 ---
 
