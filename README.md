@@ -1,5 +1,5 @@
 # Hi there 👋 I’m Harshvardhan  
-### Pupil at Codeforces | Competitive Coder | C++ & Python Enthusiast  
+### Pupil at Codeforces | Competitive Coder | C++  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Hey+there!+I'm+Harshvardhan!;Pupil+at+Codeforces+🏆;Competitive+Coder+%7C+C%2B%2B+%26+Python+Lover;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
 
@@ -19,8 +19,11 @@
 
 ## ⚡ Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007396.svg?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%23007396.svg?style=for-the-badge)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
